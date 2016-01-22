@@ -1,0 +1,4201 @@
+{
+	"columns":[
+		{
+			"type":"numeric",
+			"key":"Price",
+			"full_name":"Price",
+			"goal":"MIN"
+		},
+		{
+			"type":"numeric",
+			"key":"Bed",
+			"full_name":"Bed",
+			"goal":"MAX"
+		},
+		{
+			"type":"numeric",
+			"key":"Square_Footage",
+			"full_name":"Square Footage",
+			"goal":"MAX"
+		},
+		{
+			"type":"numeric",
+			"key":"Year_Built",
+			"full_name":"Year Built",
+			"goal":"MAX"
+		},
+		{
+			"type":"numeric",
+			"key":"Bath",
+			"full_name":"Bath",
+			"goal":"MAX"
+		}
+	],
+	"subject":"House",
+	"options":[
+		{
+			"key":"494-234875",
+			"name":"355 N 6th St Slaton  TX 79364  Lubbock",
+			"values":{
+				"Square_Footage":1327,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1945,
+				"Price":14300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-234875\" />"
+		},
+		{
+			"key":"494-378084",
+			"name":"1008 Spruce St Borger  TX 79007  Hutchinson",
+			"values":{
+				"Square_Footage":1158,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1935,
+				"Price":15000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-378084\" />"
+		},
+		{
+			"key":"495-736694",
+			"name":"408 East Commons St Refugio  TX 78377  Refugio",
+			"values":{
+				"Square_Footage":905,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1981,
+				"Price":24500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-736694\" />"
+		},
+		{
+			"key":"491-899646",
+			"name":"9481 County Rd 2813 Eustace  TX 75124  Henderson",
+			"values":{
+				"Square_Footage":952,
+				"Bath":1,
+				"Bed":1,
+				"Year_Built":1954,
+				"Price":25000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-899646\" />"
+		},
+		{
+			"key":"492-743037",
+			"name":"414 S Miller St Aka 400 S Miller St Breckenridge  TX 76424  Stephens",
+			"values":{
+				"Square_Footage":1568,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2005,
+				"Price":26299
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-743037\" />"
+		},
+		{
+			"key":"491-884411",
+			"name":"310 Woodhue Dr Bullard  TX 75757  Cherokee",
+			"values":{
+				"Square_Footage":1173,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":27900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-884411\" />"
+		},
+		{
+			"key":"492-799072",
+			"name":"1677 Smith Oak Rd Sherman  TX 75090  Grayson",
+			"values":{
+				"Square_Footage":1068,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1930,
+				"Price":28000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-799072\" />"
+		},
+		{
+			"key":"491-951878",
+			"name":"400 N 5th St Corsicana  TX 75110  Navarro",
+			"values":{
+				"Square_Footage":1527,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1970,
+				"Price":29000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-951878\" />"
+		},
+		{
+			"key":"498-012153",
+			"name":"1104 Glenn St Daingerfield  TX 75638  Morris",
+			"values":{
+				"Square_Footage":1302,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1955,
+				"Price":29300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;498-012153\" />"
+		},
+		{
+			"key":"494-336984",
+			"name":"2804 Sequoia St Amarillo  TX 79107  Potter",
+			"values":{
+				"Square_Footage":1052,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1959,
+				"Price":30000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-336984\" />"
+		},
+		{
+			"key":"491-882380",
+			"name":"212 Electra Dr Ore City  TX 75683  Marion",
+			"values":{
+				"Square_Footage":1456,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":30000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-882380\" />"
+		},
+		{
+			"key":"494-375005",
+			"name":"1102 Sterling St Borger  TX 79007  Hutchinson",
+			"values":{
+				"Square_Footage":1213,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":30000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-375005\" />"
+		},
+		{
+			"key":"511-103878",
+			"name":"21226 Lakeway Cir Chandler  TX 75758  Henderson",
+			"values":{
+				"Square_Footage":1677,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2007,
+				"Price":30000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-103878\" />"
+		},
+		{
+			"key":"491-964466",
+			"name":"154 Cherry Lane Van  TX 75790  Van Zandt",
+			"values":{
+				"Square_Footage":782,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1945,
+				"Price":31000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-964466\" />"
+		},
+		{
+			"key":"491-907467",
+			"name":"510 Highland Ln Hallsville  TX 75650  Harrison",
+			"values":{
+				"Square_Footage":1643,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2004,
+				"Price":31000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-907467\" />"
+		},
+		{
+			"key":"493-880184",
+			"name":"1212 2nd Ave S Texas City  TX 77590  Galveston",
+			"values":{
+				"Square_Footage":1172,
+				"Bath":1.1,
+				"Bed":2,
+				"Year_Built":1960,
+				"Price":32000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-880184\" />"
+		},
+		{
+			"key":"492-638822",
+			"name":"3704 Crenshaw Ave Fort Worth  TX 76105  Tarrant",
+			"values":{
+				"Square_Footage":1073,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":32500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-638822\" />"
+		},
+		{
+			"key":"491-936353",
+			"name":"605 Anderson St New Boston  TX 75570  Bowie",
+			"values":{
+				"Square_Footage":1229,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1961,
+				"Price":34000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-936353\" />"
+		},
+		{
+			"key":"511-090118",
+			"name":"222 Commander Ln Gun Barrel City  TX 75156  Henderson",
+			"values":{
+				"Square_Footage":1340,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1996,
+				"Price":34174
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-090118\" />"
+		},
+		{
+			"key":"491-928699",
+			"name":"755 S Lake St Waskom  TX 75692  Harrison",
+			"values":{
+				"Square_Footage":1411,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1940,
+				"Price":34200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-928699\" />"
+		},
+		{
+			"key":"495-811198",
+			"name":"310 Walker St E Carrizo Springs  TX 78834  Dimmit",
+			"values":{
+				"Square_Footage":1512,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2007,
+				"Price":34821
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-811198\" />"
+		},
+		{
+			"key":"492-784104",
+			"name":"904 Carrie Ave Killeen  TX 76541  Bell",
+			"values":{
+				"Square_Footage":1445,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1959,
+				"Price":35000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-784104\" />"
+		},
+		{
+			"key":"495-760202",
+			"name":"312 N Archer St Sinton  TX 78387  San Patricio",
+			"values":{
+				"Square_Footage":736,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1967,
+				"Price":35000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-760202\" />"
+		},
+		{
+			"key":"494-406535",
+			"name":"729 W Grover St Floydada  TX 79235  Floyd",
+			"values":{
+				"Square_Footage":1422,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":35100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-406535\" />"
+		},
+		{
+			"key":"494-344789",
+			"name":"129 E Fairmont Ave Colorado City  TX 79512  Mitchell",
+			"values":{
+				"Square_Footage":1408,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":36000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-344789\" />"
+		},
+		{
+			"key":"491-850865",
+			"name":"13889 County Road 1250 Tyler  TX 75709  Smith",
+			"values":{
+				"Square_Footage":2006,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2003,
+				"Price":36800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-850865\" />"
+		},
+		{
+			"key":"492-844786",
+			"name":"7209 Pica Dr Alvarado  TX 76009  Johnson",
+			"values":{
+				"Square_Footage":1822,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":37000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-844786\" />"
+		},
+		{
+			"key":"492-778226",
+			"name":"1808 Sherman Dr Killeen  TX 76543  Bell",
+			"values":{
+				"Square_Footage":1263,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1979,
+				"Price":37700
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-778226\" />"
+		},
+		{
+			"key":"491-929143",
+			"name":"589 Raymer St Hawkins  TX 75765  Wood",
+			"values":{
+				"Square_Footage":1171,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1980,
+				"Price":38250
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-929143\" />"
+		},
+		{
+			"key":"494-411331",
+			"name":"509 10th St Levelland  TX 79336  Hockley",
+			"values":{
+				"Square_Footage":1271,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1921,
+				"Price":39000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-411331\" />"
+		},
+		{
+			"key":"494-344293",
+			"name":"2900 Potomac Dr Amarillo  TX 79108  Potter",
+			"values":{
+				"Square_Footage":1537,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1997,
+				"Price":39600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-344293\" />"
+		},
+		{
+			"key":"492-764401",
+			"name":"1812 N 10th St Waco  TX 76707  Mclennan",
+			"values":{
+				"Square_Footage":1730,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1942,
+				"Price":39600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-764401\" />"
+		},
+		{
+			"key":"492-888364",
+			"name":"1607 Phoenix Dr Wichita Falls  TX 76306  Wichita",
+			"values":{
+				"Square_Footage":1343,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":39600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-888364\" />"
+		},
+		{
+			"key":"494-335523",
+			"name":"445 W Lynn St Slaton  TX 79364  Lubbock",
+			"values":{
+				"Square_Footage":1460,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1945,
+				"Price":40000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-335523\" />"
+		},
+		{
+			"key":"492-790727",
+			"name":"416 West Elm Street Whitewright  TX 75491  Grayson",
+			"values":{
+				"Square_Footage":1122,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1940,
+				"Price":40000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-790727\" />"
+		},
+		{
+			"key":"491-880775",
+			"name":"114 Lindy Lee Lane Mabank  TX 75156  Henderson",
+			"values":{
+				"Square_Footage":2186,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1970,
+				"Price":40000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-880775\" />"
+		},
+		{
+			"key":"492-763868",
+			"name":"404 Whitt St Groesbeck  TX 76642  Limestone",
+			"values":{
+				"Square_Footage":1350,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":40000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-763868\" />"
+		},
+		{
+			"key":"492-854242",
+			"name":"401 North Ave H E Haskell  TX 79521  Haskell",
+			"values":{
+				"Square_Footage":1509,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":41000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-854242\" />"
+		},
+		{
+			"key":"493-710152",
+			"name":"12105 14th St Santa Fe  TX 77510  Galveston",
+			"values":{
+				"Square_Footage":843,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1965,
+				"Price":41300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-710152\" />"
+		},
+		{
+			"key":"491-900513",
+			"name":"469 Miller St Frankston  TX 75763  Anderson",
+			"values":{
+				"Square_Footage":925,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":41500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-900513\" />"
+		},
+		{
+			"key":"491-869009",
+			"name":"168 Crockett St Rusk  TX 75785  Cherokee",
+			"values":{
+				"Square_Footage":1812,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1920,
+				"Price":42300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-869009\" />"
+		},
+		{
+			"key":"492-780518",
+			"name":"104 Powell Farm Rd Gatesville  TX 76528  Coryell",
+			"values":{
+				"Square_Footage":2022,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2007,
+				"Price":42300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-780518\" />"
+		},
+		{
+			"key":"492-772339",
+			"name":"229 Finneyoaks Ln Weatherford  TX 76085  Parker",
+			"values":{
+				"Square_Footage":1568,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1997,
+				"Price":42415
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-772339\" />"
+		},
+		{
+			"key":"494-332741",
+			"name":"600 Sun Rd Plainview  TX 79072  Hale",
+			"values":{
+				"Square_Footage":1320,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1990,
+				"Price":43000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-332741\" />"
+		},
+		{
+			"key":"492-728132",
+			"name":"924 West Gandy St Denison  TX 75020  Grayson",
+			"values":{
+				"Square_Footage":1469,
+				"Bath":1.1,
+				"Bed":2,
+				"Year_Built":1940,
+				"Price":43000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-728132\" />"
+		},
+		{
+			"key":"491-926671",
+			"name":"201 County Road 2262 Mineola  TX 75773  Wood",
+			"values":{
+				"Square_Footage":1368,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1998,
+				"Price":43775
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-926671\" />"
+		},
+		{
+			"key":"492-656590",
+			"name":"328 Clore Rd Harker Heights  TX 76548  Bell",
+			"values":{
+				"Square_Footage":2128,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2002,
+				"Price":45000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-656590\" />"
+		},
+		{
+			"key":"494-337886",
+			"name":"6307 Tucker Rd Amarillo  TX 79118  Randall",
+			"values":{
+				"Square_Footage":1828,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1995,
+				"Price":45000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-337886\" />"
+		},
+		{
+			"key":"493-840925",
+			"name":"177 James Blvd Livingston  TX 77351  Polk",
+			"values":{
+				"Square_Footage":1468,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1968,
+				"Price":47472
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-840925\" />"
+		},
+		{
+			"key":"492-824262",
+			"name":"1701 South 23rd St Abilene  TX 79602  Taylor",
+			"values":{
+				"Square_Footage":1117,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":48000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-824262\" />"
+		},
+		{
+			"key":"492-847331",
+			"name":"1403 Arkansas Avenue Killeen  TX 76541  Bell",
+			"values":{
+				"Square_Footage":1757,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1963,
+				"Price":48408
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-847331\" />"
+		},
+		{
+			"key":"492-890540",
+			"name":"200 Vz Cr 2811 Mabank  TX 75147  Kaufman",
+			"values":{
+				"Square_Footage":1343,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2010,
+				"Price":48620
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-890540\" />"
+		},
+		{
+			"key":"494-343257",
+			"name":"2506 W 19th St Plainview  TX 79072  Hale",
+			"values":{
+				"Square_Footage":1325,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":49000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-343257\" />"
+		},
+		{
+			"key":"495-627124",
+			"name":"561 12th St S Aransas Pass  TX 78336  San Patricio",
+			"values":{
+				"Square_Footage":888,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1965,
+				"Price":49000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-627124\" />"
+		},
+		{
+			"key":"493-803245",
+			"name":"812 E Tram Rd Vidor  TX 77662  Orange",
+			"values":{
+				"Square_Footage":2111,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2004,
+				"Price":49130
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-803245\" />"
+		},
+		{
+			"key":"492-767371",
+			"name":"126 Buckskin Court Alvarado  TX 76009  Johnson",
+			"values":{
+				"Square_Footage":2090,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1997,
+				"Price":49500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-767371\" />"
+		},
+		{
+			"key":"493-633695",
+			"name":"110 N Caywood St Lumberton  TX 77657  Hardin",
+			"values":{
+				"Square_Footage":988,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1948,
+				"Price":49500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-633695\" />"
+		},
+		{
+			"key":"493-933063",
+			"name":"814 Camphor Cir Village Mills  TX 77663  Hardin",
+			"values":{
+				"Square_Footage":2037,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1981,
+				"Price":49900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-933063\" />"
+		},
+		{
+			"key":"512-119592",
+			"name":"198 9th St E Markham  TX 77456  Matagorda",
+			"values":{
+				"Square_Footage":1216,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2011,
+				"Price":50000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-119592\" />"
+		},
+		{
+			"key":"491-948547",
+			"name":"20957 Joe Paul Ln Chandler  TX 75758  Henderson",
+			"values":{
+				"Square_Footage":1942,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2007,
+				"Price":50000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-948547\" />"
+		},
+		{
+			"key":"511-025486",
+			"name":"53 County Rd 2603 Pittsburg  TX 75686  Camp",
+			"values":{
+				"Square_Footage":1950,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2010,
+				"Price":51000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-025486\" />"
+		},
+		{
+			"key":"495-725658",
+			"name":"2734 Countiss Drive Corpus Christi  TX 78410  Nueces",
+			"values":{
+				"Square_Footage":1237,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":51000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-725658\" />"
+		},
+		{
+			"key":"492-583506",
+			"name":"166 Lehman Lane Riesel  TX 76682  Mclennan",
+			"values":{
+				"Square_Footage":2116,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1999,
+				"Price":51500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-583506\" />"
+		},
+		{
+			"key":"491-958162",
+			"name":"509 W Blair St Mineola  TX 75773  Wood",
+			"values":{
+				"Square_Footage":1172,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1940,
+				"Price":51500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-958162\" />"
+		},
+		{
+			"key":"512-137247",
+			"name":"2249 Evalon St Beaumont  TX 77701  Jefferson",
+			"values":{
+				"Square_Footage":1040,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1962,
+				"Price":52000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-137247\" />"
+		},
+		{
+			"key":"494-361037",
+			"name":"920 Terry Road Pampa  TX 79065  Gray",
+			"values":{
+				"Square_Footage":1404,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1975,
+				"Price":52500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-361037\" />"
+		},
+		{
+			"key":"495-758159",
+			"name":"130 Keystone Ln Poteet  TX 78065  Atascosa",
+			"values":{
+				"Square_Footage":1111,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1999,
+				"Price":53465
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-758159\" />"
+		},
+		{
+			"key":"492-824227",
+			"name":"2016 Grandview Dr Fort Worth  TX 76112  Tarrant",
+			"values":{
+				"Square_Footage":1163,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1953,
+				"Price":53500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-824227\" />"
+		},
+		{
+			"key":"494-399703",
+			"name":"111 Ormand St Sudan  TX 79371  Lamb",
+			"values":{
+				"Square_Footage":1556,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1975,
+				"Price":53610
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-399703\" />"
+		},
+		{
+			"key":"493-712055",
+			"name":"2945 Model Dr Kountze  TX 77625  Hardin",
+			"values":{
+				"Square_Footage":1216,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":54000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-712055\" />"
+		},
+		{
+			"key":"491-874102",
+			"name":"573 County Road 4734 Cumby  TX 75433  Hopkins",
+			"values":{
+				"Square_Footage":1728,
+				"Bath":2,
+				"Bed":5,
+				"Year_Built":1998,
+				"Price":54000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-874102\" />"
+		},
+		{
+			"key":"493-845673",
+			"name":"101 N Ohio St Brazoria  TX 77422  Brazoria",
+			"values":{
+				"Square_Footage":984,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1998,
+				"Price":54800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-845673\" />"
+		},
+		{
+			"key":"494-246137",
+			"name":"808 S Manhattan St Amarillo  TX 79104  Potter",
+			"values":{
+				"Square_Footage":1408,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1987,
+				"Price":55000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-246137\" />"
+		},
+		{
+			"key":"493-829663",
+			"name":"1012 W Hart Ave Pasadena  TX 77506  Harris",
+			"values":{
+				"Square_Footage":1240,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1948,
+				"Price":55000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-829663\" />"
+		},
+		{
+			"key":"495-739263",
+			"name":"405 S K Center Street Mcallen  TX 78501  Hidalgo",
+			"values":{
+				"Square_Footage":2201,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1979,
+				"Price":55000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-739263\" />"
+		},
+		{
+			"key":"495-782753",
+			"name":"9097 Hwy 84 W Prairie Hill  TX 76678  Limestone",
+			"values":{
+				"Square_Footage":1498,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":55000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-782753\" />"
+		},
+		{
+			"key":"491-897919",
+			"name":"11041 S Fm 410 Deport  TX 75435  Red River",
+			"values":{
+				"Square_Footage":1152,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1971,
+				"Price":55700
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-897919\" />"
+		},
+		{
+			"key":"511-041975",
+			"name":"1402 Daniels Chapel Rd New Boston  TX 75570  Bowie",
+			"values":{
+				"Square_Footage":1835,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1955,
+				"Price":56000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-041975\" />"
+		},
+		{
+			"key":"492-640760",
+			"name":"4204 Emerson St Wichita Falls  TX 76309  Wichita",
+			"values":{
+				"Square_Footage":1750,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1952,
+				"Price":56600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-640760\" />"
+		},
+		{
+			"key":"492-787550",
+			"name":"601 E Grand Ave Comanche  TX 76442  Comanche",
+			"values":{
+				"Square_Footage":1980,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":2007,
+				"Price":57100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-787550\" />"
+		},
+		{
+			"key":"494-341489",
+			"name":"1624 S La Salle St Amarillo  TX 79106  Potter",
+			"values":{
+				"Square_Footage":1268,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1939,
+				"Price":57200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-341489\" />"
+		},
+		{
+			"key":"494-349684",
+			"name":"3107 Potomac Dr Amarillo  TX 79108  Potter",
+			"values":{
+				"Square_Footage":2280,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1999,
+				"Price":57800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-349684\" />"
+		},
+		{
+			"key":"494-345336",
+			"name":"504 Brady Ave Wickett  TX 79788  Ward",
+			"values":{
+				"Square_Footage":2432,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":58000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-345336\" />"
+		},
+		{
+			"key":"491-904096",
+			"name":"3180 Margaret St Paris  TX 75460  Lamar",
+			"values":{
+				"Square_Footage":1677,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1965,
+				"Price":58089
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-904096\" />"
+		},
+		{
+			"key":"491-759111",
+			"name":"989 County Rd 3434 Wills Point  TX 75169  Van Zandt",
+			"values":{
+				"Square_Footage":1557,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":58500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-759111\" />"
+		},
+		{
+			"key":"492-927925",
+			"name":"1302 Bluejay St Iowa Park  TX 76367  Wichita",
+			"values":{
+				"Square_Footage":1337,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1982,
+				"Price":59000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-927925\" />"
+		},
+		{
+			"key":"493-847875",
+			"name":"610 County Rd 4750 Warren  TX 77664  Tyler",
+			"values":{
+				"Square_Footage":2356,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2007,
+				"Price":59173
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-847875\" />"
+		},
+		{
+			"key":"495-693926",
+			"name":"355 County Rd 6848 Lytle  TX 78052  Medina",
+			"values":{
+				"Square_Footage":1523,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":59500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-693926\" />"
+		},
+		{
+			"key":"492-763593",
+			"name":"1211 Country Acres Ct Venus  TX 76084  Ellis",
+			"values":{
+				"Square_Footage":1664,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2000,
+				"Price":59900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-763593\" />"
+		},
+		{
+			"key":"494-317240",
+			"name":"7415 Star Burst Ln Canyon  TX 79015  Randall",
+			"values":{
+				"Square_Footage":2318,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2005,
+				"Price":60000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-317240\" />"
+		},
+		{
+			"key":"494-399217",
+			"name":"1309 N Starkweather St Pampa  TX 79065  Gray",
+			"values":{
+				"Square_Footage":1888,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1945,
+				"Price":60000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-399217\" />"
+		},
+		{
+			"key":"491-879667",
+			"name":"1307 Berry Lane Longview  TX 75602  Gregg",
+			"values":{
+				"Square_Footage":2499,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1958,
+				"Price":60300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-879667\" />"
+		},
+		{
+			"key":"492-683725",
+			"name":"1015 Ben Drive Cleburne  TX 76031  Johnson",
+			"values":{
+				"Square_Footage":2052,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":2003,
+				"Price":60329
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-683725\" />"
+		},
+		{
+			"key":"492-604173",
+			"name":"412 Thistle Ct Cresson  TX 76035  Hood",
+			"values":{
+				"Square_Footage":1213,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1988,
+				"Price":60800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-604173\" />"
+		},
+		{
+			"key":"493-851576",
+			"name":"81 Cr 3891 N Cleveland  TX 77328  Liberty",
+			"values":{
+				"Square_Footage":1346,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2007,
+				"Price":60860
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-851576\" />"
+		},
+		{
+			"key":"493-893163",
+			"name":"183 Westwood Dr E Trinity  TX 75862  Trinity",
+			"values":{
+				"Square_Footage":1397,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1975,
+				"Price":61300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-893163\" />"
+		},
+		{
+			"key":"494-355162",
+			"name":"3501 W Apple St Odessa  TX 79766  Ector",
+			"values":{
+				"Square_Footage":1134,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2009,
+				"Price":61413
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-355162\" />"
+		},
+		{
+			"key":"491-846206",
+			"name":"9615 Bluffcreek Dr Dallas  TX 75227  Dallas",
+			"values":{
+				"Square_Footage":1710,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1971,
+				"Price":62000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-846206\" />"
+		},
+		{
+			"key":"492-784687",
+			"name":"203 S Mountain Rdg Cresson  TX 76035  Parker",
+			"values":{
+				"Square_Footage":1189,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2007,
+				"Price":63000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-784687\" />"
+		},
+		{
+			"key":"491-929524",
+			"name":"1579 Cr 1116 E Sulphur Springs  TX 75482  Hopkins",
+			"values":{
+				"Square_Footage":2280,
+				"Bath":2,
+				"Bed":5,
+				"Year_Built":2008,
+				"Price":63000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-929524\" />"
+		},
+		{
+			"key":"495-693119",
+			"name":"7252 C-1 The Mansions Corpus Christi  TX 78414  Nueces",
+			"values":{
+				"Square_Footage":4,
+				"Bath":1,
+				"Bed":1,
+				"Year_Built":1983,
+				"Price":63000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-693119\" />"
+		},
+		{
+			"key":"493-848102",
+			"name":"2351 Autumn Springs Lane Spring  TX 77373  Harris",
+			"values":{
+				"Square_Footage":1400,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1983,
+				"Price":63000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-848102\" />"
+		},
+		{
+			"key":"492-731848",
+			"name":"8508 Open Sky Ct Alvarado  TX 76009  Johnson",
+			"values":{
+				"Square_Footage":1959,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1999,
+				"Price":63000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-731848\" />"
+		},
+		{
+			"key":"491-883820",
+			"name":"307 E Ragley St Henderson  TX 75654  Rusk",
+			"values":{
+				"Square_Footage":2298,
+				"Bath":3,
+				"Bed":3,
+				"Year_Built":1910,
+				"Price":63255
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-883820\" />"
+		},
+		{
+			"key":"492-786256",
+			"name":"1901 Bel Air Drive Abilene  TX 79603  Taylor",
+			"values":{
+				"Square_Footage":1280,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1960,
+				"Price":63300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-786256\" />"
+		},
+		{
+			"key":"494-352567",
+			"name":"5601 Joyce Circle El Paso  TX 79904  El Paso",
+			"values":{
+				"Square_Footage":1071,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1949,
+				"Price":63920
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-352567\" />"
+		},
+		{
+			"key":"491-855238",
+			"name":"608 Cr 1120 Ravenna  TX 75476  Fannin",
+			"values":{
+				"Square_Footage":1720,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":64000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-855238\" />"
+		},
+		{
+			"key":"492-787033",
+			"name":"2812 Rio Vista Rd Fort Worth  TX 76116  Tarrant",
+			"values":{
+				"Square_Footage":1408,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1959,
+				"Price":65000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-787033\" />"
+		},
+		{
+			"key":"495-782451",
+			"name":"487 Rosemary Loop New Braunfels  TX 78130  ",
+			"values":{
+				"Square_Footage":1568,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":65000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-782451\" />"
+		},
+		{
+			"key":"492-786898",
+			"name":"908 Holly St Copperas Cove  TX 76522  Coryell",
+			"values":{
+				"Square_Footage":1258,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1973,
+				"Price":65000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-786898\" />"
+		},
+		{
+			"key":"494-378514",
+			"name":"5308 Salisbury Drive El Paso  TX 79924  El Paso",
+			"values":{
+				"Square_Footage":1367,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1958,
+				"Price":66000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-378514\" />"
+		},
+		{
+			"key":"492-745428",
+			"name":"1325 S Travis Ave Denison  TX 75021  Grayson",
+			"values":{
+				"Square_Footage":1670,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2005,
+				"Price":66000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-745428\" />"
+		},
+		{
+			"key":"492-743240",
+			"name":"8316 Alston Ct Joshua  TX 76058  Johnson",
+			"values":{
+				"Square_Footage":1056,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":2005,
+				"Price":66000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-743240\" />"
+		},
+		{
+			"key":"494-349563",
+			"name":"1109 Cleveland St Borger  TX 79007  Hutchinson",
+			"values":{
+				"Square_Footage":2325,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":66400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-349563\" />"
+		},
+		{
+			"key":"495-703364",
+			"name":"4419 Hampstead Drive San Antonio  TX 78220  Bexar",
+			"values":{
+				"Square_Footage":1206,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1969,
+				"Price":67000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-703364\" />"
+		},
+		{
+			"key":"492-817499",
+			"name":"210 W Franklin St Alvord  TX 76225  Wise",
+			"values":{
+				"Square_Footage":1390,
+				"Bath":1.1,
+				"Bed":1,
+				"Year_Built":1958,
+				"Price":67000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-817499\" />"
+		},
+		{
+			"key":"494-341058",
+			"name":"1309 N Cleveland St Amarillo  TX 79107  Potter",
+			"values":{
+				"Square_Footage":1028,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":2003,
+				"Price":67000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-341058\" />"
+		},
+		{
+			"key":"493-829268",
+			"name":"1185 County Road 813 Nacogdoches  TX 75964  Nacogdoches",
+			"values":{
+				"Square_Footage":2312,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2002,
+				"Price":67400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-829268\" />"
+		},
+		{
+			"key":"492-769086",
+			"name":"3513 Cobbler Ln Joshua  TX 76058  Johnson",
+			"values":{
+				"Square_Footage":1933,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2006,
+				"Price":67500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-769086\" />"
+		},
+		{
+			"key":"493-845086",
+			"name":"3445 French Rd Beaumont  TX 77703  Jefferson",
+			"values":{
+				"Square_Footage":1298,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1988,
+				"Price":68000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-845086\" />"
+		},
+		{
+			"key":"493-870109",
+			"name":"2547 14th St Port Arthur  TX 77640  Jefferson",
+			"values":{
+				"Square_Footage":2266,
+				"Bath":1.2,
+				"Bed":4,
+				"Year_Built":1968,
+				"Price":68638
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-870109\" />"
+		},
+		{
+			"key":"492-716045",
+			"name":"1009 N Anglin Street Cleburne  TX 76031  Johnson",
+			"values":{
+				"Square_Footage":2710,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1930,
+				"Price":68900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-716045\" />"
+		},
+		{
+			"key":"495-834570",
+			"name":"1212 N Drake St Edna  TX 77957  Jackson",
+			"values":{
+				"Square_Footage":1052,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1984,
+				"Price":69000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-834570\" />"
+		},
+		{
+			"key":"492-722634",
+			"name":"4716 Staples Ave Fort Worth  TX 76133  Tarrant",
+			"values":{
+				"Square_Footage":1326,
+				"Bath":1.1,
+				"Bed":2,
+				"Year_Built":1951,
+				"Price":69000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-722634\" />"
+		},
+		{
+			"key":"494-349478",
+			"name":"4204 Ridgeway Dr Plainview  TX 79072  Hale",
+			"values":{
+				"Square_Footage":1566,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1986,
+				"Price":69300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-349478\" />"
+		},
+		{
+			"key":"491-930619",
+			"name":"103 Ruby Ln Longview  TX 75604  Gregg",
+			"values":{
+				"Square_Footage":1567,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1986,
+				"Price":69300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-930619\" />"
+		},
+		{
+			"key":"493-921203",
+			"name":"174 Maple Brookeland  TX 75931  Jasper",
+			"values":{
+				"Square_Footage":1478,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":70000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-921203\" />"
+		},
+		{
+			"key":"495-777759",
+			"name":"101 Oak View Dr La Vernia  TX 78121  Wilson",
+			"values":{
+				"Square_Footage":1847,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1987,
+				"Price":70000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-777759\" />"
+		},
+		{
+			"key":"493-711727",
+			"name":"5314 County Rd 154 Alvin  TX 77511  Brazoria",
+			"values":{
+				"Square_Footage":930,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1980,
+				"Price":70000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-711727\" />"
+		},
+		{
+			"key":"494-317541",
+			"name":"10380 Valle Del Mar Dr Socorro  TX 79927  El Paso",
+			"values":{
+				"Square_Footage":984,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2004,
+				"Price":70100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-317541\" />"
+		},
+		{
+			"key":"493-831978",
+			"name":"1120 17th Ave N Texas City  TX 77590  Galveston",
+			"values":{
+				"Square_Footage":1545,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1970,
+				"Price":70200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-831978\" />"
+		},
+		{
+			"key":"494-333529",
+			"name":"1736 Victor Lopez Dr El Paso  TX 79936  El Paso",
+			"values":{
+				"Square_Footage":1536,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1984,
+				"Price":70400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-333529\" />"
+		},
+		{
+			"key":"492-805275",
+			"name":"8925 Sallys Way Alvarado  TX 76009  Johnson",
+			"values":{
+				"Square_Footage":2667,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":2008,
+				"Price":71600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-805275\" />"
+		},
+		{
+			"key":"493-851061",
+			"name":"33139 Mckinley Cir Magnolia  TX 77354  Montgomery",
+			"values":{
+				"Square_Footage":1430,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2003,
+				"Price":72000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-851061\" />"
+		},
+		{
+			"key":"493-862307",
+			"name":"7335 Click Dr Beaumont  TX 77708  Jefferson",
+			"values":{
+				"Square_Footage":1457,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1962,
+				"Price":72000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-862307\" />"
+		},
+		{
+			"key":"492-633689",
+			"name":"456 Fm 1771 Marlin  TX 76661  Falls",
+			"values":{
+				"Square_Footage":1706,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":72000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-633689\" />"
+		},
+		{
+			"key":"493-929469",
+			"name":"6003 9th St Danbury  TX 77534  Brazoria",
+			"values":{
+				"Square_Footage":1232,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2004,
+				"Price":72100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-929469\" />"
+		},
+		{
+			"key":"494-351118",
+			"name":"8471 Hughes Circle El Paso  TX 79907  El Paso",
+			"values":{
+				"Square_Footage":1160,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":73500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-351118\" />"
+		},
+		{
+			"key":"492-369228",
+			"name":"3316 Chalmette Ct Forest Hill  TX 76140  Tarrant",
+			"values":{
+				"Square_Footage":1764,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1980,
+				"Price":74000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-369228\" />"
+		},
+		{
+			"key":"493-762600",
+			"name":"460 Rosewood Street Vidor  TX 77662  Orange",
+			"values":{
+				"Square_Footage":1425,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1980,
+				"Price":74200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-762600\" />"
+		},
+		{
+			"key":"494-337120",
+			"name":"1403 S Western St Amarillo  TX 79106  Potter",
+			"values":{
+				"Square_Footage":1664,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1926,
+				"Price":74800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-337120\" />"
+		},
+		{
+			"key":"495-814749",
+			"name":"7122 Premont Dr Apt I-202 Corpus Christi  TX 78414  Nueces",
+			"values":{
+				"Square_Footage":1051,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1984,
+				"Price":75000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-814749\" />"
+		},
+		{
+			"key":"492-766033",
+			"name":"801 Austin Rd Graham  TX 76450  Young",
+			"values":{
+				"Square_Footage":1800,
+				"Bath":1.5,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":75000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-766033\" />"
+		},
+		{
+			"key":"491-942004",
+			"name":"2507 Beverly Dr Greenville  TX 75402  Hunt",
+			"values":{
+				"Square_Footage":1277,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1970,
+				"Price":75000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-942004\" />"
+		},
+		{
+			"key":"493-852930",
+			"name":"12636 County Rd 3740 Cleveland  TX 77327  Liberty",
+			"values":{
+				"Square_Footage":2310,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":75000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-852930\" />"
+		},
+		{
+			"key":"493-866494",
+			"name":"30619 Hazy Meadow Dr Magnolia  TX 77354  Montgomery",
+			"values":{
+				"Square_Footage":2128,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":75000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-866494\" />"
+		},
+		{
+			"key":"494-340190",
+			"name":"1802 W Adams St Pecos  TX 79772  Reeves",
+			"values":{
+				"Square_Footage":2221,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":75212
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-340190\" />"
+		},
+		{
+			"key":"492-765822",
+			"name":"314 W Upshaw Ave Temple  TX 76501  Bell",
+			"values":{
+				"Square_Footage":1489,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1964,
+				"Price":75600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-765822\" />"
+		},
+		{
+			"key":"512-063615",
+			"name":"1669 Spell Lane Lumberton  TX 77657  Hardin",
+			"values":{
+				"Square_Footage":1734,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1999,
+				"Price":76000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-063615\" />"
+		},
+		{
+			"key":"492-805498",
+			"name":"205 Appaloosa Dr Copperas Cove  TX 76522  Coryell",
+			"values":{
+				"Square_Footage":1594,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1992,
+				"Price":76400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-805498\" />"
+		},
+		{
+			"key":"495-474256",
+			"name":"7343 Cabin Creek Dr San Antonio  TX 78238  Bexar",
+			"values":{
+				"Square_Footage":899,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1971,
+				"Price":76500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-474256\" />"
+		},
+		{
+			"key":"492-661320",
+			"name":"900 Lynch Bend Rd Springtown  TX 76082  Parker",
+			"values":{
+				"Square_Footage":3007,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2002,
+				"Price":77000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-661320\" />"
+		},
+		{
+			"key":"493-815001",
+			"name":"2502 Daffodil St Highlands  TX 77562  Harris",
+			"values":{
+				"Square_Footage":1026,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1982,
+				"Price":77000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-815001\" />"
+		},
+		{
+			"key":"513-007742",
+			"name":"2667 Sunrise Dr Troy  TX 76579  Bell",
+			"values":{
+				"Square_Footage":2280,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2004,
+				"Price":77300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;513-007742\" />"
+		},
+		{
+			"key":"493-878159",
+			"name":"8838 Klondike St Houston  TX 77075  Harris",
+			"values":{
+				"Square_Footage":1248,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1971,
+				"Price":77300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-878159\" />"
+		},
+		{
+			"key":"494-409071",
+			"name":"605 Sunset Rd Fritch  TX 79036  Carson",
+			"values":{
+				"Square_Footage":2338,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2012,
+				"Price":77300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-409071\" />"
+		},
+		{
+			"key":"493-930953",
+			"name":"4063 Young St Pasadena  TX 77504  Harris",
+			"values":{
+				"Square_Footage":1656,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1973,
+				"Price":77900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-930953\" />"
+		},
+		{
+			"key":"491-895847",
+			"name":"14095 County Road 1250 Tyler  TX 75709  Smith",
+			"values":{
+				"Square_Footage":1480,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1984,
+				"Price":78000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-895847\" />"
+		},
+		{
+			"key":"493-813892",
+			"name":"14523 Dartwood Dr Houston  TX 77049  Harris",
+			"values":{
+				"Square_Footage":1334,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":78795
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-813892\" />"
+		},
+		{
+			"key":"493-930659",
+			"name":"461 County Road 4499 Warren  TX 77664  Tyler",
+			"values":{
+				"Square_Footage":1824,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1985,
+				"Price":79050
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-930659\" />"
+		},
+		{
+			"key":"493-874850",
+			"name":"971 Ogden St Jasper  TX 75951  Jasper",
+			"values":{
+				"Square_Footage":3181,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1953,
+				"Price":79500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-874850\" />"
+		},
+		{
+			"key":"495-805977",
+			"name":"2664 El Parque St Brownsville  TX 78520  Cameron",
+			"values":{
+				"Square_Footage":1354,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":80000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-805977\" />"
+		},
+		{
+			"key":"493-929918",
+			"name":"770 Fm 2938 Rd Buna  TX 77612  Jasper",
+			"values":{
+				"Square_Footage":2847,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1975,
+				"Price":80000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-929918\" />"
+		},
+		{
+			"key":"493-857219",
+			"name":"102 Lakewind Dr Lufkin  TX 75901  Angelina",
+			"values":{
+				"Square_Footage":1402,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1966,
+				"Price":80000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-857219\" />"
+		},
+		{
+			"key":"495-743108",
+			"name":"308 N Wanda Dr Kingsville  TX 78363  Kleberg",
+			"values":{
+				"Square_Footage":1970,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1955,
+				"Price":80000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-743108\" />"
+		},
+		{
+			"key":"493-430066",
+			"name":"4750 Court Rd Houston  TX 77053  ",
+			"values":{
+				"Square_Footage":1401,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1976,
+				"Price":80000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-430066\" />"
+		},
+		{
+			"key":"491-944977",
+			"name":"404 N Live Oak St Gladewater  TX 75647  Gregg",
+			"values":{
+				"Square_Footage":1527,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":80000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-944977\" />"
+		},
+		{
+			"key":"495-843145",
+			"name":"1902 Twin Oaks Kingsland  TX 78639  Llano",
+			"values":{
+				"Square_Footage":1183,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1973,
+				"Price":80400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-843145\" />"
+		},
+		{
+			"key":"512-142389",
+			"name":"15235 Highway 36 Needville  TX 77461  Fort Bend",
+			"values":{
+				"Square_Footage":1675,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":81000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-142389\" />"
+		},
+		{
+			"key":"493-753832",
+			"name":"213 Linda St Deer Park  TX 77536  Harris",
+			"values":{
+				"Square_Footage":1376,
+				"Bath":1,
+				"Bed":4,
+				"Year_Built":1955,
+				"Price":81000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-753832\" />"
+		},
+		{
+			"key":"511-096449",
+			"name":"2015 Rhonda Dr Mesquite  TX 75149  Dallas",
+			"values":{
+				"Square_Footage":987,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1960,
+				"Price":82000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-096449\" />"
+		},
+		{
+			"key":"495-735052",
+			"name":"195 County Road 2709 Mico  TX 78056  Medina",
+			"values":{
+				"Square_Footage":1339,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2005,
+				"Price":82000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-735052\" />"
+		},
+		{
+			"key":"492-316506",
+			"name":"965 34th SE Paris  TX 75460  Lamar",
+			"values":{
+				"Square_Footage":1733,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1965,
+				"Price":82400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-316506\" />"
+		},
+		{
+			"key":"494-342268",
+			"name":"10624 Onyxstone St El Paso  TX 79924  El Paso",
+			"values":{
+				"Square_Footage":1056,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1992,
+				"Price":82400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-342268\" />"
+		},
+		{
+			"key":"493-931952",
+			"name":"8765 Newfield Lane Beaumont  TX 77707  Jefferson",
+			"values":{
+				"Square_Footage":1285,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1968,
+				"Price":82500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-931952\" />"
+		},
+		{
+			"key":"492-610198",
+			"name":"109 Yucca Dr Clyde  TX 79510  Callahan",
+			"values":{
+				"Square_Footage":1302,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1984,
+				"Price":82500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-610198\" />"
+		},
+		{
+			"key":"492-839104",
+			"name":"1412 W 1st St Lampasas  TX 76550  Lampasas",
+			"values":{
+				"Square_Footage":1857,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1964,
+				"Price":84500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-839104\" />"
+		},
+		{
+			"key":"495-911452",
+			"name":"1003 Tesoro Pl Del Rio  TX 78840  Val Verde",
+			"values":{
+				"Square_Footage":1118,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2007,
+				"Price":85000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-911452\" />"
+		},
+		{
+			"key":"495-762809",
+			"name":"18203 King Palm Dr Harlingen  TX 78552  Cameron",
+			"values":{
+				"Square_Footage":1896,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":2003,
+				"Price":85000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-762809\" />"
+		},
+		{
+			"key":"492-678471",
+			"name":"200 Gainsville Street Forestburg  TX 76239  Montague",
+			"values":{
+				"Square_Footage":1640,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1981,
+				"Price":85000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-678471\" />"
+		},
+		{
+			"key":"494-332874",
+			"name":"3532 Dragon Crest Dr El Paso  TX 79936  El Paso",
+			"values":{
+				"Square_Footage":1481,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2000,
+				"Price":85500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-332874\" />"
+		},
+		{
+			"key":"511-043868",
+			"name":"16058 SE Cr 4100 Kerens  TX 75144  Navarro",
+			"values":{
+				"Square_Footage":2128,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":1999,
+				"Price":85616
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-043868\" />"
+		},
+		{
+			"key":"512-013166",
+			"name":"1011 10th St Huntsville  TX 77320  Walker",
+			"values":{
+				"Square_Footage":1731,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1940,
+				"Price":85800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-013166\" />"
+		},
+		{
+			"key":"494-312489",
+			"name":"2209 Tierra De Oro Way El Paso  TX 79938  El Paso",
+			"values":{
+				"Square_Footage":1123,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":85850
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-312489\" />"
+		},
+		{
+			"key":"491-793747",
+			"name":"108 Hall Rd Linden  TX 75563  Cass",
+			"values":{
+				"Square_Footage":2382,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1984,
+				"Price":86000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-793747\" />"
+		},
+		{
+			"key":"491-962568",
+			"name":"15763 Cr 2187 Whitehouse  TX 75791  Smith",
+			"values":{
+				"Square_Footage":1757,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2006,
+				"Price":86000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-962568\" />"
+		},
+		{
+			"key":"493-789053",
+			"name":"2261 Earle St Port Neches  TX 77651  Jefferson",
+			"values":{
+				"Square_Footage":1414,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":86000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-789053\" />"
+		},
+		{
+			"key":"493-755600",
+			"name":"5675 Clint Ln Beaumont  TX 77713  Jefferson",
+			"values":{
+				"Square_Footage":1370,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":87300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-755600\" />"
+		},
+		{
+			"key":"493-799334",
+			"name":"16174 Lazy Creek Ln Splendora  TX 77372  Montgomery",
+			"values":{
+				"Square_Footage":1960,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2004,
+				"Price":87600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-799334\" />"
+		},
+		{
+			"key":"491-909759",
+			"name":"2818 Nova Dr Garland  TX 75044  Dallas",
+			"values":{
+				"Square_Footage":948,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1972,
+				"Price":88000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-909759\" />"
+		},
+		{
+			"key":"492-810201",
+			"name":"628 Lake Crest Pkwy Azle  TX 76020  Tarrant",
+			"values":{
+				"Square_Footage":1348,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1983,
+				"Price":88000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-810201\" />"
+		},
+		{
+			"key":"493-870305",
+			"name":"5085 Curtis Ct Beaumont  TX 77708  Jefferson",
+			"values":{
+				"Square_Footage":1643,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2010,
+				"Price":88485
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-870305\" />"
+		},
+		{
+			"key":"495-717464",
+			"name":"10745 Dogwood St Corpus Christi  TX 78410  Nueces",
+			"values":{
+				"Square_Footage":1602,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1962,
+				"Price":90000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-717464\" />"
+		},
+		{
+			"key":"493-818803",
+			"name":"602 Lakeside Dr Channelview  TX 77530  Harris",
+			"values":{
+				"Square_Footage":1945,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1965,
+				"Price":90000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-818803\" />"
+		},
+		{
+			"key":"495-820288",
+			"name":"423 Inspiration Dr San Antonio  TX 78228  Bexar",
+			"values":{
+				"Square_Footage":1737,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1958,
+				"Price":90000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-820288\" />"
+		},
+		{
+			"key":"494-351866",
+			"name":"1205 W Conestoga Ln Odessa  TX 79766  Ector",
+			"values":{
+				"Square_Footage":1840,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":90000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-351866\" />"
+		},
+		{
+			"key":"494-377585",
+			"name":"3220 Mariana Avenue Midland  TX 79701  Midland",
+			"values":{
+				"Square_Footage":1435,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":90096
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-377585\" />"
+		},
+		{
+			"key":"493-760440",
+			"name":"504 S Ramona St Angleton  TX 77515  Brazoria",
+			"values":{
+				"Square_Footage":1479,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":1964,
+				"Price":90900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-760440\" />"
+		},
+		{
+			"key":"493-648691",
+			"name":"1209 Meadowridge Dr Beaumont  TX 77706  Jefferson",
+			"values":{
+				"Square_Footage":1822,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1988,
+				"Price":91000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-648691\" />"
+		},
+		{
+			"key":"511-032035",
+			"name":"10244 Cr 4118d Henderson  TX 75654  Rusk",
+			"values":{
+				"Square_Footage":1800,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2010,
+				"Price":91800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-032035\" />"
+		},
+		{
+			"key":"491-790619",
+			"name":"1609 Enchanted Ln Lancaster  TX 75146  Dallas",
+			"values":{
+				"Square_Footage":1495,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1964,
+				"Price":92000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-790619\" />"
+		},
+		{
+			"key":"494-352859",
+			"name":"14013 Lago Seco Dr Horizon City  TX 79928  El Paso",
+			"values":{
+				"Square_Footage":1028,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":92700
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-352859\" />"
+		},
+		{
+			"key":"495-566163",
+			"name":"209 1/2 Lariat Ln Victoria  TX 77901  Victoria",
+			"values":{
+				"Square_Footage":2554,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1976,
+				"Price":93600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-566163\" />"
+		},
+		{
+			"key":"495-730238",
+			"name":"26289 Meredith St La Feria  TX 78559  Cameron",
+			"values":{
+				"Square_Footage":2784,
+				"Bath":3.1,
+				"Bed":5,
+				"Year_Built":2005,
+				"Price":94200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-730238\" />"
+		},
+		{
+			"key":"493-819454",
+			"name":"70 Lakeside Dr Etoile  TX 75944  Nacogdoches",
+			"values":{
+				"Square_Footage":1027,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1994,
+				"Price":94500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-819454\" />"
+		},
+		{
+			"key":"495-790712",
+			"name":"298 High View Ranch Dr Cedar Creek  TX 78612  Bastrop",
+			"values":{
+				"Square_Footage":2098,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1999,
+				"Price":95000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-790712\" />"
+		},
+		{
+			"key":"493-918353",
+			"name":"25320 Rolling Hills Dr Hockley  TX 77447  Waller",
+			"values":{
+				"Square_Footage":2052,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2009,
+				"Price":95000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-918353\" />"
+		},
+		{
+			"key":"494-364850",
+			"name":"2416 Red Sails Drive El Paso  TX 79936  El Paso",
+			"values":{
+				"Square_Footage":1239,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1976,
+				"Price":95000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-364850\" />"
+		},
+		{
+			"key":"512-124324",
+			"name":"14610 Leacrest Dr Houston  TX 77049  Harris",
+			"values":{
+				"Square_Footage":1915,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":95800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-124324\" />"
+		},
+		{
+			"key":"492-758233",
+			"name":"2884 Cr 135 Brownwood  TX 76801  Brown",
+			"values":{
+				"Square_Footage":2318,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2005,
+				"Price":96500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-758233\" />"
+		},
+		{
+			"key":"494-355014",
+			"name":"600 S Hill St Amarillo  TX 79104  Potter",
+			"values":{
+				"Square_Footage":3031,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1965,
+				"Price":97000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-355014\" />"
+		},
+		{
+			"key":"494-336914",
+			"name":"3309 Greenock St El Paso  TX 79925  El Paso",
+			"values":{
+				"Square_Footage":1358,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1958,
+				"Price":97700
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-336914\" />"
+		},
+		{
+			"key":"494-358165",
+			"name":"2205 N Alturas Ave Odessa  TX 79763  Ector",
+			"values":{
+				"Square_Footage":2608,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":2002,
+				"Price":98000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-358165\" />"
+		},
+		{
+			"key":"513-020673",
+			"name":"1507 Rita Lane Iowa Park  TX 76367  Wichita",
+			"values":{
+				"Square_Footage":1818,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1970,
+				"Price":99000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;513-020673\" />"
+		},
+		{
+			"key":"514-017684",
+			"name":"1001 N 5th St Mcallen  TX 78501  Hidalgo",
+			"values":{
+				"Square_Footage":2073,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1968,
+				"Price":99500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;514-017684\" />"
+		},
+		{
+			"key":"491-956343",
+			"name":"4314 W Marcell Circle Texarkana  TX 75503  Bowie",
+			"values":{
+				"Square_Footage":1445,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":99800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-956343\" />"
+		},
+		{
+			"key":"492-640322",
+			"name":"604 W Inwood Dr Arlington  TX 76010  Tarrant",
+			"values":{
+				"Square_Footage":1338,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1956,
+				"Price":100000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-640322\" />"
+		},
+		{
+			"key":"492-805221",
+			"name":"823 Williams Pl Mansfield  TX 76063  Tarrant",
+			"values":{
+				"Square_Footage":1440,
+				"Bath":1,
+				"Bed":3,
+				"Year_Built":1950,
+				"Price":100000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-805221\" />"
+		},
+		{
+			"key":"495-735778",
+			"name":"3102 San Jacinto Ct Laredo  TX 78046  Webb",
+			"values":{
+				"Square_Footage":1417,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1998,
+				"Price":100600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-735778\" />"
+		},
+		{
+			"key":"495-885858",
+			"name":"9437 Ivory Cir Harlingen  TX 78552  Cameron",
+			"values":{
+				"Square_Footage":1380,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2004,
+				"Price":100800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-885858\" />"
+		},
+		{
+			"key":"512-093209",
+			"name":"411 Roberts Street Nacogdoches  TX 75964  Nacogdoches",
+			"values":{
+				"Square_Footage":1912,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1975,
+				"Price":103000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-093209\" />"
+		},
+		{
+			"key":"511-064394",
+			"name":"8110 Fm 2419 Elkhart  TX 75839  Anderson",
+			"values":{
+				"Square_Footage":1881,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":104000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-064394\" />"
+		},
+		{
+			"key":"494-383826",
+			"name":"12104 Tower Hill Dr El Paso  TX 79936  El Paso",
+			"values":{
+				"Square_Footage":1064,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1998,
+				"Price":105000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-383826\" />"
+		},
+		{
+			"key":"493-657801",
+			"name":"8702 Kirkmont Dr Houston  TX 77089  Harris",
+			"values":{
+				"Square_Footage":1215,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1982,
+				"Price":105000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-657801\" />"
+		},
+		{
+			"key":"492-672076",
+			"name":"7544 Arbor Hill Drive Fort Worth  TX 76120  Tarrant",
+			"values":{
+				"Square_Footage":1599,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1988,
+				"Price":106600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-672076\" />"
+		},
+		{
+			"key":"493-924762",
+			"name":"25407 Wingfield Ln Spring  TX 77373  Harris",
+			"values":{
+				"Square_Footage":1888,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1972,
+				"Price":107000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-924762\" />"
+		},
+		{
+			"key":"494-357408",
+			"name":"6764 Ridge Top Dr El Paso  TX 79904  El Paso",
+			"values":{
+				"Square_Footage":1237,
+				"Bath":1,
+				"Bed":2,
+				"Year_Built":1964,
+				"Price":108200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-357408\" />"
+		},
+		{
+			"key":"495-732307",
+			"name":"1809 Evergreen Ct Harlingen  TX 78550  Cameron",
+			"values":{
+				"Square_Footage":2487,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1982,
+				"Price":108630
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-732307\" />"
+		},
+		{
+			"key":"491-803857",
+			"name":"509 Rainier St Cedar Hill  TX 75104  Dallas",
+			"values":{
+				"Square_Footage":1530,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1986,
+				"Price":109000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-803857\" />"
+		},
+		{
+			"key":"494-354265",
+			"name":"14859 Catherine Jane Dr El Paso  TX 79938  El Paso",
+			"values":{
+				"Square_Footage":2675,
+				"Bath":2,
+				"Bed":5,
+				"Year_Built":2006,
+				"Price":109800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-354265\" />"
+		},
+		{
+			"key":"495-744122",
+			"name":"109 Coastal Oaks Lp Port O Connor  TX 77982  Calhoun",
+			"values":{
+				"Square_Footage":1852,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":110000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-744122\" />"
+		},
+		{
+			"key":"493-852894",
+			"name":"524 County Road 2286 Cleveland  TX 77327  Liberty",
+			"values":{
+				"Square_Footage":1568,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1998,
+				"Price":110000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-852894\" />"
+		},
+		{
+			"key":"493-826870",
+			"name":"3748 Pin Oak Dr Conroe  TX 77301  Montgomery",
+			"values":{
+				"Square_Footage":1451,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1973,
+				"Price":110000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-826870\" />"
+		},
+		{
+			"key":"493-898605",
+			"name":"706 Saint Lo St Lufkin  TX 75901  Angelina",
+			"values":{
+				"Square_Footage":2084,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1986,
+				"Price":112000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-898605\" />"
+		},
+		{
+			"key":"494-393459",
+			"name":"6530 84th Street Lubbock  TX 79424  Lubbock",
+			"values":{
+				"Square_Footage":1306,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":112000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-393459\" />"
+		},
+		{
+			"key":"491-901736",
+			"name":"9283 Hwy 154 S Sulphur Springs  TX 75482  Hopkins",
+			"values":{
+				"Square_Footage":1740,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1971,
+				"Price":113600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-901736\" />"
+		},
+		{
+			"key":"494-368431",
+			"name":"3033 Jose Ortiz Ln El Paso  TX 79936  El Paso",
+			"values":{
+				"Square_Footage":1823,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2004,
+				"Price":115000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-368431\" />"
+		},
+		{
+			"key":"491-927971",
+			"name":"1624 Tuley St Cedar Hill  TX 75104  Dallas",
+			"values":{
+				"Square_Footage":1367,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1987,
+				"Price":115000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-927971\" />"
+		},
+		{
+			"key":"495-812901",
+			"name":"2014 Sean Drive Corpus Christi  TX 78412  Nueces",
+			"values":{
+				"Square_Footage":1854,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1977,
+				"Price":115000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-812901\" />"
+		},
+		{
+			"key":"491-653806",
+			"name":"1031 Grandview Ave Dallas  TX 75223  Dallas",
+			"values":{
+				"Square_Footage":1500,
+				"Bath":3,
+				"Bed":3,
+				"Year_Built":1918,
+				"Price":115000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-653806\" />"
+		},
+		{
+			"key":"493-848348",
+			"name":"1007 West Nelda Rd Houston  TX 77088  Harris",
+			"values":{
+				"Square_Footage":1423,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1976,
+				"Price":116000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-848348\" />"
+		},
+		{
+			"key":"493-674394",
+			"name":"9918 Hibernia Dr Houston  TX 77088  Harris",
+			"values":{
+				"Square_Footage":2148,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1980,
+				"Price":117000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-674394\" />"
+		},
+		{
+			"key":"511-053641",
+			"name":"3285 An County Road 452 Palestine  TX 75803  Anderson",
+			"values":{
+				"Square_Footage":1384,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1985,
+				"Price":117100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-053641\" />"
+		},
+		{
+			"key":"494-389755",
+			"name":"2010 S Fannin St Amarillo  TX 79109  Potter",
+			"values":{
+				"Square_Footage":2181,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1951,
+				"Price":117810
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-389755\" />"
+		},
+		{
+			"key":"494-340186",
+			"name":"4517 Mesa Cir Amarillo  TX 79109  Randall",
+			"values":{
+				"Square_Footage":1945,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1969,
+				"Price":118500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-340186\" />"
+		},
+		{
+			"key":"493-849230",
+			"name":"1085 Caldwell St Jasper  TX 75951  Jasper",
+			"values":{
+				"Square_Footage":2858,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1965,
+				"Price":118800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-849230\" />"
+		},
+		{
+			"key":"495-809562",
+			"name":"1507 Dallas St Portland  TX 78374  San Patricio",
+			"values":{
+				"Square_Footage":1237,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1966,
+				"Price":119000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-809562\" />"
+		},
+		{
+			"key":"511-094767",
+			"name":"4275 County Road 2131 Detroit  TX 75436  Red River",
+			"values":{
+				"Square_Footage":3298,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1992,
+				"Price":119200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-094767\" />"
+		},
+		{
+			"key":"495-725933",
+			"name":"204 E 8th St Los Fresnos  TX 78566  Cameron",
+			"values":{
+				"Square_Footage":2387,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1982,
+				"Price":120000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-725933\" />"
+		},
+		{
+			"key":"493-719242",
+			"name":"11022 Kirkwell Dr Houston  TX 77089  Harris",
+			"values":{
+				"Square_Footage":1255,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1982,
+				"Price":120000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-719242\" />"
+		},
+		{
+			"key":"491-861111",
+			"name":"613 Cimarron Trl Irving  TX 75063  Dallas",
+			"values":{
+				"Square_Footage":1292,
+				"Bath":2.1,
+				"Bed":2,
+				"Year_Built":1985,
+				"Price":122000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-861111\" />"
+		},
+		{
+			"key":"494-398718",
+			"name":"13316 W Jenkins St Odessa  TX 79764  Ector",
+			"values":{
+				"Square_Footage":2240,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":2013,
+				"Price":122000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-398718\" />"
+		},
+		{
+			"key":"492-308751",
+			"name":"6533 Alta Vista Dr Watauga  TX 76148  Tarrant",
+			"values":{
+				"Square_Footage":1411,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1985,
+				"Price":122600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-308751\" />"
+		},
+		{
+			"key":"495-836194",
+			"name":"146 Rush Hvn San Marcos  TX 78666  Hays",
+			"values":{
+				"Square_Footage":1230,
+				"Bath":1.1,
+				"Bed":3,
+				"Year_Built":2009,
+				"Price":123000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-836194\" />"
+		},
+		{
+			"key":"495-783539",
+			"name":"7835 Horse Holw San Antonio  TX 78244  Bexar",
+			"values":{
+				"Square_Footage":3095,
+				"Bath":2.1,
+				"Bed":5,
+				"Year_Built":2008,
+				"Price":123300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-783539\" />"
+		},
+		{
+			"key":"494-340484",
+			"name":"12405 Sombra Grande Drive El Paso  TX 79938  El Paso",
+			"values":{
+				"Square_Footage":1428,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":123600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-340484\" />"
+		},
+		{
+			"key":"492-865190",
+			"name":"4816 Stonehaven Dr Temple  TX 76502  Bell",
+			"values":{
+				"Square_Footage":1661,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2007,
+				"Price":123600
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-865190\" />"
+		},
+		{
+			"key":"493-906409",
+			"name":"8342 Fuqua Gardens Houston  TX 77075  Harris",
+			"values":{
+				"Square_Footage":1144,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2001,
+				"Price":124900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-906409\" />"
+		},
+		{
+			"key":"493-889744",
+			"name":"2910 Yupon Street Dickinson  TX 77539  Galveston",
+			"values":{
+				"Square_Footage":2503,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1962,
+				"Price":125000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-889744\" />"
+		},
+		{
+			"key":"495-649341",
+			"name":"4109 Santa Fabiola St Mission  TX 78572  Hidalgo",
+			"values":{
+				"Square_Footage":2326,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2002,
+				"Price":127000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-649341\" />"
+		},
+		{
+			"key":"491-788411",
+			"name":"527 Oakridge Dr Greenville  TX 75402  Hunt",
+			"values":{
+				"Square_Footage":1648,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1990,
+				"Price":128000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-788411\" />"
+		},
+		{
+			"key":"492-851548",
+			"name":"4905 Cedar Springs Dr Fort Worth  TX 76179  Tarrant",
+			"values":{
+				"Square_Footage":2183,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1993,
+				"Price":128800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-851548\" />"
+		},
+		{
+			"key":"493-732114",
+			"name":"15307 Parkville Dr Houston  TX 77068  Harris",
+			"values":{
+				"Square_Footage":2542,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1975,
+				"Price":129200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-732114\" />"
+		},
+		{
+			"key":"493-860073",
+			"name":"10127 Glengate Ln Houston  TX 77036  Harris",
+			"values":{
+				"Square_Footage":1719,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1981,
+				"Price":130000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-860073\" />"
+		},
+		{
+			"key":"492-807940",
+			"name":"12929 Kelly Dr Rhome  TX 76078  Wise",
+			"values":{
+				"Square_Footage":2334,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":131300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-807940\" />"
+		},
+		{
+			"key":"512-050723",
+			"name":"21630 Punkin St New Caney  TX 77357  Montgomery",
+			"values":{
+				"Square_Footage":2004,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1984,
+				"Price":131325
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-050723\" />"
+		},
+		{
+			"key":"492-555224",
+			"name":"7012 Turner Ter N. Richland Hills  TX 76180  Tarrant",
+			"values":{
+				"Square_Footage":2267,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1953,
+				"Price":132000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-555224\" />"
+		},
+		{
+			"key":"493-830575",
+			"name":"12827 Ashford Creek Dr Houston  TX 77082  Harris",
+			"values":{
+				"Square_Footage":1860,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1981,
+				"Price":133000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-830575\" />"
+		},
+		{
+			"key":"494-277468",
+			"name":"2045 Sun Country Dr El Paso  TX 79938  El Paso",
+			"values":{
+				"Square_Footage":1594,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1997,
+				"Price":133000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-277468\" />"
+		},
+		{
+			"key":"492-835472",
+			"name":"6521 Tierra Dr Waco  TX 76712  Mclennan",
+			"values":{
+				"Square_Footage":1373,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":133500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-835472\" />"
+		},
+		{
+			"key":"491-920951",
+			"name":"617 Westmoreland Circle Anna  TX 75409  Collin",
+			"values":{
+				"Square_Footage":1587,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1993,
+				"Price":133900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-920951\" />"
+		},
+		{
+			"key":"492-871637",
+			"name":"6821 Sandshell Blvd Fort Worth  TX 76137  Tarrant",
+			"values":{
+				"Square_Footage":1219,
+				"Bath":1.1,
+				"Bed":2,
+				"Year_Built":2008,
+				"Price":133900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-871637\" />"
+		},
+		{
+			"key":"495-845597",
+			"name":"705 Saint Bernadine Dr Corpus Christi  TX 78418  Nueces",
+			"values":{
+				"Square_Footage":1304,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1996,
+				"Price":134000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-845597\" />"
+		},
+		{
+			"key":"492-811824",
+			"name":"12921 Carpenter Ln Rhome  TX 76078  Wise",
+			"values":{
+				"Square_Footage":1963,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":135000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-811824\" />"
+		},
+		{
+			"key":"494-377582",
+			"name":"3601 S Wilson St Amarillo  TX 79118  Randall",
+			"values":{
+				"Square_Footage":1517,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2005,
+				"Price":135000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-377582\" />"
+		},
+		{
+			"key":"491-871705",
+			"name":"1300 N Houston School Rd Lancaster  TX 75146  Dallas",
+			"values":{
+				"Square_Footage":2220,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1964,
+				"Price":135000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-871705\" />"
+		},
+		{
+			"key":"491-930427",
+			"name":"2707 Cedarcrest Dr Marshall  TX 75672  Harrison",
+			"values":{
+				"Square_Footage":1605,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":135000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-930427\" />"
+		},
+		{
+			"key":"491-940330",
+			"name":"215 Rolling Ridge Ct Crandall  TX 75114  Kaufman",
+			"values":{
+				"Square_Footage":2049,
+				"Bath":3,
+				"Bed":5,
+				"Year_Built":1990,
+				"Price":135900
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-940330\" />"
+		},
+		{
+			"key":"491-781321",
+			"name":"1602 Pineridge Street Longview  TX 75604  Gregg",
+			"values":{
+				"Square_Footage":2103,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1974,
+				"Price":137000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-781321\" />"
+		},
+		{
+			"key":"512-077267",
+			"name":"1434 Terracewood St Nacogdoches  TX 75965  Nacogdoches",
+			"values":{
+				"Square_Footage":2065,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1976,
+				"Price":137250
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-077267\" />"
+		},
+		{
+			"key":"494-335155",
+			"name":"3608 S Yvonne Street Monahans  TX 79756  Ward",
+			"values":{
+				"Square_Footage":2151,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1970,
+				"Price":139200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-335155\" />"
+		},
+		{
+			"key":"491-829135",
+			"name":"3331 Prancer St Lancaster  TX 75146  Dallas",
+			"values":{
+				"Square_Footage":1682,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1998,
+				"Price":140000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-829135\" />"
+		},
+		{
+			"key":"495-713198",
+			"name":"4301 Yucatan St Corpus Christi  TX 78411  Nueces",
+			"values":{
+				"Square_Footage":2373,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1966,
+				"Price":140000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-713198\" />"
+		},
+		{
+			"key":"512-149515",
+			"name":"5206 Gage Spring Ct Spring  TX 77373  Harris",
+			"values":{
+				"Square_Footage":1735,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2013,
+				"Price":140700
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-149515\" />"
+		},
+		{
+			"key":"495-788745",
+			"name":"13844 Paddlewheel Dr Corpus Christi  TX 78410  Nueces",
+			"values":{
+				"Square_Footage":1963,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1994,
+				"Price":140800
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-788745\" />"
+		},
+		{
+			"key":"494-321701",
+			"name":"701 Cypress St Roscoe  TX 79545  Nolan",
+			"values":{
+				"Square_Footage":2772,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1950,
+				"Price":141000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-321701\" />"
+		},
+		{
+			"key":"495-729668",
+			"name":"2709 Thunder Bay Cts Corpus Christi  TX 78414  Nueces",
+			"values":{
+				"Square_Footage":1523,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1993,
+				"Price":142000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-729668\" />"
+		},
+		{
+			"key":"492-855714",
+			"name":"2017 David Dr Fort Worth  TX 76111  Tarrant",
+			"values":{
+				"Square_Footage":2348,
+				"Bath":3,
+				"Bed":3,
+				"Year_Built":1961,
+				"Price":142000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-855714\" />"
+		},
+		{
+			"key":"492-855007",
+			"name":"500 E. Vega Lane Killeen  TX 76542  Bell",
+			"values":{
+				"Square_Footage":2595,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":2009,
+				"Price":142715
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-855007\" />"
+		},
+		{
+			"key":"493-844652",
+			"name":"5525 Westchase Loop Lumberton  TX 77657  Hardin",
+			"values":{
+				"Square_Footage":1466,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2007,
+				"Price":144200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-844652\" />"
+		},
+		{
+			"key":"491-892959",
+			"name":"7017 Verbena Rd Ore City  TX 75683  Upshur",
+			"values":{
+				"Square_Footage":2622,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1986,
+				"Price":144200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-892959\" />"
+		},
+		{
+			"key":"495-906713",
+			"name":"185 Fm 2368 Carrizo Springs  TX 78834  Dimmit",
+			"values":{
+				"Square_Footage":2175,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1993,
+				"Price":146000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-906713\" />"
+		},
+		{
+			"key":"492-903642",
+			"name":"216 Gregory Street Joshua  TX 76058  Johnson",
+			"values":{
+				"Square_Footage":2546,
+				"Bath":2.1,
+				"Bed":2,
+				"Year_Built":1988,
+				"Price":146000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-903642\" />"
+		},
+		{
+			"key":"495-788403",
+			"name":"808 E 5th St Sinton  TX 78387  San Patricio",
+			"values":{
+				"Square_Footage":2103,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":146300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-788403\" />"
+		},
+		{
+			"key":"491-931004",
+			"name":"514 E Market St Mabank  TX 75147  Kaufman",
+			"values":{
+				"Square_Footage":2307,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1957,
+				"Price":147000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-931004\" />"
+		},
+		{
+			"key":"495-808226",
+			"name":"1101 Sacramento St Portland  TX 78374  San Patricio",
+			"values":{
+				"Square_Footage":1303,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":147000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-808226\" />"
+		},
+		{
+			"key":"492-845206",
+			"name":"11 Timberline Dr Belton  TX 76513  Bell",
+			"values":{
+				"Square_Footage":1885,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2004,
+				"Price":147300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-845206\" />"
+		},
+		{
+			"key":"495-959821",
+			"name":"3407 Spanish Trce San Antonio  TX 78222  Bexar",
+			"values":{
+				"Square_Footage":2332,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":2012,
+				"Price":150000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-959821\" />"
+		},
+		{
+			"key":"511-052652",
+			"name":"1604 Northwood Ct Longview  TX 75605  Gregg",
+			"values":{
+				"Square_Footage":1950,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1987,
+				"Price":150000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-052652\" />"
+		},
+		{
+			"key":"493-833332",
+			"name":"5430 Rock Springs Dr Laporte  TX 77571  Harris",
+			"values":{
+				"Square_Footage":2481,
+				"Bath":2.1,
+				"Bed":5,
+				"Year_Built":1981,
+				"Price":150300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-833332\" />"
+		},
+		{
+			"key":"492-907376",
+			"name":"1145 County Road 429 Glen Rose  TX 76043  Somervell",
+			"values":{
+				"Square_Footage":2259,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1992,
+				"Price":151200
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-907376\" />"
+		},
+		{
+			"key":"493-882618",
+			"name":"5035 Spring Forest Dr Houston  TX 77091  Harris",
+			"values":{
+				"Square_Footage":1906,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":151500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-882618\" />"
+		},
+		{
+			"key":"492-830048",
+			"name":"4808 Platinum Dr Killeen  TX 76542  Bell",
+			"values":{
+				"Square_Footage":2143,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2006,
+				"Price":155000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-830048\" />"
+		},
+		{
+			"key":"495-859249",
+			"name":"5309 Guava Dr Harlingen  TX 78552  Cameron",
+			"values":{
+				"Square_Footage":2607,
+				"Bath":3.1,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":155000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-859249\" />"
+		},
+		{
+			"key":"492-699180",
+			"name":"5605 Camino Dos Lagos Dr Sherman  TX 75090  Grayson",
+			"values":{
+				"Square_Footage":1990,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1978,
+				"Price":155000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-699180\" />"
+		},
+		{
+			"key":"511-036556",
+			"name":"3402 Hayman Dr Garland  TX 75043  Dallas",
+			"values":{
+				"Square_Footage":1939,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1977,
+				"Price":155000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-036556\" />"
+		},
+		{
+			"key":"513-012511",
+			"name":"516 Hood Dr Copperas Cove  TX 76522  Coryell",
+			"values":{
+				"Square_Footage":1963,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1996,
+				"Price":157590
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;513-012511\" />"
+		},
+		{
+			"key":"495-765409",
+			"name":"7418 Vega Gap San Antonio  TX 78252  Bexar",
+			"values":{
+				"Square_Footage":2455,
+				"Bath":3.5,
+				"Bed":5,
+				"Year_Built":2007,
+				"Price":160000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-765409\" />"
+		},
+		{
+			"key":"495-819659",
+			"name":"8125 Youngsford Rd Santa Clara  TX 78124  Guadalupe",
+			"values":{
+				"Square_Footage":1431,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1990,
+				"Price":160000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-819659\" />"
+		},
+		{
+			"key":"492-804964",
+			"name":"297 County Road 379 Cameron  TX 76520  Milam",
+			"values":{
+				"Square_Footage":1766,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":160650
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-804964\" />"
+		},
+		{
+			"key":"495-862165",
+			"name":"5154 Star Trek Dr Beeville  TX 78102  Bee",
+			"values":{
+				"Square_Footage":1935,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1985,
+				"Price":162010
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-862165\" />"
+		},
+		{
+			"key":"494-350604",
+			"name":"2165 E Webb St Brownfield  TX 79316  Terry",
+			"values":{
+				"Square_Footage":3001,
+				"Bath":3,
+				"Bed":4,
+				"Year_Built":1973,
+				"Price":163000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-350604\" />"
+		},
+		{
+			"key":"495-792410",
+			"name":"513 Bridle Lane Victoria  TX 77904  Victoria",
+			"values":{
+				"Square_Footage":1814,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1996,
+				"Price":163300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-792410\" />"
+		},
+		{
+			"key":"491-910191",
+			"name":"111 Valley View Dr Waxahachie  TX 75167  Ellis",
+			"values":{
+				"Square_Footage":2441,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":165000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-910191\" />"
+		},
+		{
+			"key":"492-795616",
+			"name":"605 N Roberts St West  TX 76691  Mclennan",
+			"values":{
+				"Square_Footage":2623,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":1966,
+				"Price":166000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-795616\" />"
+		},
+		{
+			"key":"514-007302",
+			"name":"5903 Desert Glass San Antonio  TX 78222  Bexar",
+			"values":{
+				"Square_Footage":2344,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":170000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;514-007302\" />"
+		},
+		{
+			"key":"492-777725",
+			"name":"5704 Tumbled Stone Dr Killeen  TX 76542  Bell",
+			"values":{
+				"Square_Footage":2040,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2006,
+				"Price":170000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-777725\" />"
+		},
+		{
+			"key":"491-930663",
+			"name":"14749 Dusti Road Eustace  TX 75124  Henderson",
+			"values":{
+				"Square_Footage":2028,
+				"Bath":2.2,
+				"Bed":4,
+				"Year_Built":1991,
+				"Price":170500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;491-930663\" />"
+		},
+		{
+			"key":"513-038022",
+			"name":"873 Sun Down Stephenville  TX 76401  Erath",
+			"values":{
+				"Square_Footage":2072,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2013,
+				"Price":173300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;513-038022\" />"
+		},
+		{
+			"key":"495-925721",
+			"name":"3009 Dante Dr Corpus Christi  TX 78415  Nueces",
+			"values":{
+				"Square_Footage":1542,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2011,
+				"Price":174100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-925721\" />"
+		},
+		{
+			"key":"492-797811",
+			"name":"1171 4 Mile Rd Riesel  TX 76682  Mclennan",
+			"values":{
+				"Square_Footage":1743,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1996,
+				"Price":175000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-797811\" />"
+		},
+		{
+			"key":"494-360301",
+			"name":"3941 Esmond Dr Odessa  TX 79762  Ector",
+			"values":{
+				"Square_Footage":1814,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2006,
+				"Price":175100
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-360301\" />"
+		},
+		{
+			"key":"495-674515",
+			"name":"509 W 14th Street Weslaco  TX 78596  Hidalgo",
+			"values":{
+				"Square_Footage":2736,
+				"Bath":2.5,
+				"Bed":3,
+				"Year_Built":2002,
+				"Price":175500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-674515\" />"
+		},
+		{
+			"key":"492-967690",
+			"name":"2127 Primrose Ave Fort Worth  TX 76111  Tarrant",
+			"values":{
+				"Square_Footage":1678,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1928,
+				"Price":178000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-967690\" />"
+		},
+		{
+			"key":"495-939659",
+			"name":"310 De Soto Dr Universal City  TX 78148  Bexar",
+			"values":{
+				"Square_Footage":2001,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1969,
+				"Price":180000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-939659\" />"
+		},
+		{
+			"key":"493-885286",
+			"name":"19510 Grand Colony Ct Katy  TX 77449  Harris",
+			"values":{
+				"Square_Footage":2953,
+				"Bath":3.1,
+				"Bed":5,
+				"Year_Built":2008,
+				"Price":183000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-885286\" />"
+		},
+		{
+			"key":"492-962416",
+			"name":"12300 Shine Ave Rhome  TX 76078  Denton",
+			"values":{
+				"Square_Footage":2952,
+				"Bath":3.1,
+				"Bed":5,
+				"Year_Built":2012,
+				"Price":185000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-962416\" />"
+		},
+		{
+			"key":"494-375683",
+			"name":"1342 N Moss Ave Odessa  TX 79763  Ector",
+			"values":{
+				"Square_Footage":1579,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2009,
+				"Price":191500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-375683\" />"
+		},
+		{
+			"key":"495-901141",
+			"name":"104 Parkcrest Floresville  TX 78114  Wilson",
+			"values":{
+				"Square_Footage":1771,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":2008,
+				"Price":192500
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-901141\" />"
+		},
+		{
+			"key":"494-403919",
+			"name":"502 Waverly Dr Midland  TX 79703  Midland",
+			"values":{
+				"Square_Footage":1814,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2012,
+				"Price":213000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-403919\" />"
+		},
+		{
+			"key":"511-058742",
+			"name":"5716 Quail Creek Dr Tyler  TX 75703  Smith",
+			"values":{
+				"Square_Footage":2710,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":1977,
+				"Price":213400
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-058742\" />"
+		},
+		{
+			"key":"511-022077",
+			"name":"5836 Birchbrook Dr #132 Dallas  TX 75206  Dallas",
+			"values":{
+				"Square_Footage":1260,
+				"Bath":2,
+				"Bed":2,
+				"Year_Built":1970,
+				"Price":216300
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-022077\" />"
+		},
+		{
+			"key":"494-385292",
+			"name":"3206 Bismarck Ave Amarillo  TX 79118  Randall",
+			"values":{
+				"Square_Footage":2361,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2011,
+				"Price":217000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;494-385292\" />"
+		},
+		{
+			"key":"495-783403",
+			"name":"8426 Pale Horse Ln San Antonio  TX 78254  Bexar",
+			"values":{
+				"Square_Footage":2630,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2007,
+				"Price":217000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-783403\" />"
+		},
+		{
+			"key":"495-812637",
+			"name":"8413 Macarena Dr Corpus Christi  TX 78414  Nueces",
+			"values":{
+				"Square_Footage":2516,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2008,
+				"Price":222000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-812637\" />"
+		},
+		{
+			"key":"511-104863",
+			"name":"2522 Oasis Dr Longview  TX 75601  ",
+			"values":{
+				"Square_Footage":2139,
+				"Bath":2.1,
+				"Bed":3,
+				"Year_Built":2011,
+				"Price":225000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-104863\" />"
+		},
+		{
+			"key":"495-888477",
+			"name":"2552 Strawberry City Rd Poteet  TX 78065  Atascosa",
+			"values":{
+				"Square_Footage":2763,
+				"Bath":2,
+				"Bed":4,
+				"Year_Built":2010,
+				"Price":225000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-888477\" />"
+		},
+		{
+			"key":"495-753493",
+			"name":"116 Firebird Run Cibolo  TX 78108  Guadalupe",
+			"values":{
+				"Square_Footage":2760,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2006,
+				"Price":228000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-753493\" />"
+		},
+		{
+			"key":"495-825518",
+			"name":"312 Pine Tree Loop Bastrop  TX 78602  Bastrop",
+			"values":{
+				"Square_Footage":1705,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1985,
+				"Price":230000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-825518\" />"
+		},
+		{
+			"key":"495-956272",
+			"name":"2951 Lazy Lake Dr Harlingen  TX 78550  Cameron",
+			"values":{
+				"Square_Footage":4071,
+				"Bath":4,
+				"Bed":3,
+				"Year_Built":1988,
+				"Price":235535
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;495-956272\" />"
+		},
+		{
+			"key":"492-951905",
+			"name":"6111 Pinwood Cir Arlington  TX 76001  Tarrant",
+			"values":{
+				"Square_Footage":3157,
+				"Bath":3.1,
+				"Bed":5,
+				"Year_Built":1990,
+				"Price":240000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-951905\" />"
+		},
+		{
+			"key":"493-887794",
+			"name":"221 Petty Rd Waller  TX 77484  Waller",
+			"values":{
+				"Square_Footage":3812,
+				"Bath":4,
+				"Bed":5,
+				"Year_Built":1994,
+				"Price":240000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-887794\" />"
+		},
+		{
+			"key":"492-834691",
+			"name":"1748 County Rd 1012 Bluff Dale  TX 76433  Somervell",
+			"values":{
+				"Square_Footage":2466,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1992,
+				"Price":240805
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;492-834691\" />"
+		},
+		{
+			"key":"511-069509",
+			"name":"301 S Westmoreland Waxahachie  TX 75167  Ellis",
+			"values":{
+				"Square_Footage":1625,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1975,
+				"Price":260000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;511-069509\" />"
+		},
+		{
+			"key":"512-016806",
+			"name":"26815 Harwood Heights Dr Katy  TX 77494  Fort Bend",
+			"values":{
+				"Square_Footage":3132,
+				"Bath":2.1,
+				"Bed":4,
+				"Year_Built":2010,
+				"Price":273000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-016806\" />"
+		},
+		{
+			"key":"512-075199",
+			"name":"9493 Beverly Dr Orange  TX 77630  Orange",
+			"values":{
+				"Square_Footage":3230,
+				"Bath":3.1,
+				"Bed":4,
+				"Year_Built":1994,
+				"Price":280000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;512-075199\" />"
+		},
+		{
+			"key":"493-869751",
+			"name":"10406 Willowisp Dr Houston  TX 77035  Harris",
+			"values":{
+				"Square_Footage":2280,
+				"Bath":2,
+				"Bed":3,
+				"Year_Built":1956,
+				"Price":392000
+			},
+			"description_html":"<img style=\"max-height:200px\" src=\"https://www.hudhomestore.com/pages/ImageShow.aspx?Case&#61;493-869751\" />"
+		}
+	]
+}
